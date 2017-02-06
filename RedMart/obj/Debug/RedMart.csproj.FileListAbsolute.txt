@@ -1,0 +1,6 @@
+D:\RedMart\RedMart\bin\Debug\RedMart.exe.config
+D:\RedMart\RedMart\bin\Debug\RedMart.exe
+D:\RedMart\RedMart\bin\Debug\RedMart.pdb
+D:\RedMart\RedMart\obj\Debug\RedMart.exe
+D:\RedMart\RedMart\obj\Debug\RedMart.pdb
+D:\RedMart\RedMart\obj\Debug\RedMart.csprojResolveAssemblyReference.cache
